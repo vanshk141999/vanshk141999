@@ -31,8 +31,8 @@
 
 ## 🔗 Connect with me:
 <span align="left">
-  <a href="https://www.linkedin.com/in/vansh-kapoor-vk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vanshkapoor-linkedin"/></a>
-      <a href="mailto:kvansh297@gmail.com">
+  <a href="https://www.linkedin.com/in/vansh-kapoor-vk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vanshkapoor-linkedin"/></a>
+      <a href="mailto:kvansh297@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
       </a>
 </span>

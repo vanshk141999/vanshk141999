@@ -2,15 +2,15 @@
 <html>
 <body>
 <h1 align="center">Hi 👋, I'm Vansh Kapoor</h1>
-<h3 align="center">A Enthusiastic Frotend Developer.</h3>
-<p align="center">I'm a Frotend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</p>
+<h3 align="center">A Enthusiastic Frontend Developer.</h3>
+<p align="center">I'm a Frontend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</p>
 <p align= "center">
-<img src="https://img.shields.io/badge/HTML-HTML-orange"/>
-<img src="https://img.shields.io/badge/CSS-CSS-blue"/>
+<img src="https://img.shields.io/badge/HTML-orange"/>
+<img src="https://img.shields.io/badge/CSS-blue"/>
 <img src="https://img.shields.io/badge/Javascript-red"/>
-<img src="https://img.shields.io/badge/React-React-blue"/>
+<img src="https://img.shields.io/badge/React-blue"/>
 <img src="https://img.shields.io/badge/Electron-1B1C26"/>
-<img src="https://img.shields.io/badge/PHP-PHP-blue"/>
+<img src="https://img.shields.io/badge/PHP-blue"/>
 <img src="https://img.shields.io/badge/SQL-DC8903"/>
 <img src="https://img.shields.io/badge/Node-green"/>
 <img src="https://img.shields.io/badge/Express-blueviolet"/>

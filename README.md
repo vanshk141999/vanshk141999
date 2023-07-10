@@ -27,7 +27,7 @@
 <div align="center">
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vanshk141999.github.io/)
+[![resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vanshk141999.github.io/static/media/resume.6f33a8a14154a477b88c.pdf)
 
 ## 🔗 Connect with me:
 <span align="left">

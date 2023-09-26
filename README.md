@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/CSS-2763EA"/>
 <img src="https://img.shields.io/badge/Javascript-EFCD46"/>
 <img src="https://img.shields.io/badge/React-119FCA"/>
+<img src="https://img.shields.io/badge/Next-#000000"/>
 <img src="https://img.shields.io/badge/Electron-1B1C26"/>
 <img src="https://img.shields.io/badge/PHP-7377AD"/>
 <img src="https://img.shields.io/badge/SQL-DC8903"/>

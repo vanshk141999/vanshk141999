@@ -7,17 +7,19 @@
 <p align="center">I'm a Frontend Developer with hands-on experience in designing, developing, and maintaining projects. Below are my skill sets.</p>
 
 <p align= "center">
-<img src="https://img.shields.io/badge/HTML-E96227"/>
-<img src="https://img.shields.io/badge/CSS-2763EA"/>
-<img src="https://img.shields.io/badge/Javascript-EFCD46"/>
-<img src="https://img.shields.io/badge/React-119FCA"/>
-<img src="https://img.shields.io/badge/Next-000000"/>
-<img src="https://img.shields.io/badge/Electron-1B1C26"/>
-<img src="https://img.shields.io/badge/PHP-7377AD"/>
-<img src="https://img.shields.io/badge/SQL-DC8903"/>
-<img src="https://img.shields.io/badge/Node-2C2C2C"/>
-<img src="https://img.shields.io/badge/Express-484747"/>
-<img src="https://img.shields.io/badge/Mongodb-54A74A"/>
+  <img src="https://img.shields.io/badge/CSS-2763EA"/>
+  <img src="https://img.shields.io/badge/Javascript-EFCD46"/>
+  <img src="https://img.shields.io/badge/React-119FCA"/>
+  <img src="https://img.shields.io/badge/Next-000000"/>
+  <img src="https://img.shields.io/badge/Langchain-ABCA00"/>
+  <img src="https://img.shields.io/badge/TypeScript-3077C6"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-6597C10"/>
+  <img src="https://img.shields.io/badge/PHP-7377AD"/>
+  <img src="https://img.shields.io/badge/SQL-DC8903"/>
+  <img src="https://img.shields.io/badge/Node-2C2C2C"/>
+  <img src="https://img.shields.io/badge/Express-484747"/>
+  <img src="https://img.shields.io/badge/Mongodb-54A74A"/>
+  <img src="https://img.shields.io/badge/Electron-1B1C26"/>
 </p>
 
 <div align="center">

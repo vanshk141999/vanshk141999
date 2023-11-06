@@ -28,14 +28,14 @@
 <div align="center">
 
 ## 🔗 Links
-[![resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vanshk141999.github.io/static/media/vansh_kapoor_resume.ca845614e8626108794f.pdf)
+[![portfolio](https://img.shields.io/badge/portfolio-4AACF3?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vanshk141999.github.io)
 
 ## 🔗 Connect with me:
 <span align="left">
   <a href="https://www.linkedin.com/in/vansh-kapoor-vk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vanshkapoor-linkedin"/></a>
-      <a href="mailto:kvansh297@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
-      </a>
+  <a href="mailto:kvansh297@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
+  </a>
 </span>
 
 </div>

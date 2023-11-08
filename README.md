@@ -41,7 +41,7 @@
 </span>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-vanshs-projects.vercel.app/api?username=vanshk141999&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-vanshs-projects.vercel.app/api?username=vanshk141999&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide=stars"/>
   <img height="180em" src="https://github-readme-stats-git-master-vanshs-projects.vercel.app/api/top-langs/?username=vanshk141999&layout=compact&langs_count=6"/>
 </div>
 

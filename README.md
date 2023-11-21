@@ -7,6 +7,7 @@
 <p align="center">I'm a Frontend Developer with hands-on experience in designing, developing, and maintaining projects. Below are my skill sets.</p>
 
 <p align= "center">
+  <img src="https://img.shields.io/badge/HTML-DD4A24"/>
   <img src="https://img.shields.io/badge/CSS-2763EA"/>
   <img src="https://img.shields.io/badge/Javascript-EFCD46"/>
   <img src="https://img.shields.io/badge/React-119FCA"/>

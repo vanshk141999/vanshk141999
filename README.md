@@ -3,8 +3,8 @@
 <body>
 
 <h1 align="center">Hi 👋, I'm Vansh Kapoor</h1>
-<h3 align="center">An Enthusiastic Frontend Developer</h3>
-<p align="center">I'm a Frontend Developer with hands-on experience in designing, developing, and maintaining projects. Below are my skill sets.</p>
+<h3 align="center">An Enthusiastic Full Stack Developer</h3>
+<p align="center">I'm a Full Stack Developer with hands-on experience in designing, developing, and maintaining projects. Below are my skill sets.</p>
 
 <p align= "center">
   <img src="https://img.shields.io/badge/HTML-DD4A24"/>

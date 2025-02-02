@@ -9,16 +9,16 @@
 <p align= "center">
   <img src="https://img.shields.io/badge/HTML-DD4A24"/>
   <img src="https://img.shields.io/badge/CSS-2763EA"/>
+  <img src="https://img.shields.io/badge/Tailwindcss-00BBFF"/>
   <img src="https://img.shields.io/badge/Javascript-EFCD46"/>
   <img src="https://img.shields.io/badge/TypeScript-3077C6"/>
-  <img src="https://img.shields.io/badge/PHP-7377AD"/>
   <img src="https://img.shields.io/badge/React-119FCA"/>
-  <img src="https://img.shields.io/badge/Laravel-EF3E2F"/>
   <img src="https://img.shields.io/badge/Next-000000"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-6597C10"/>
-  <img src="https://img.shields.io/badge/SQL-DC8903"/>
   <img src="https://img.shields.io/badge/Node-2C2C2C"/>
-  <img src="https://img.shields.io/badge/Express-484747"/>
+  <img src="https://img.shields.io/badge/PHP-7377AD"/>
+  <img src="https://img.shields.io/badge/Laravel-EF3E2F"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-6597C10"/>
+  <img src="https://img.shields.io/badge/MySQL-DC8903"/>
 </p>
 
 <div align="center">

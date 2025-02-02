@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Vansh Kapoor</h1>
 <h3 align="center">An Enthusiastic Full Stack Developer</h3>
-<p align="center">I'm a Full Stack Developer with hands-on experience in designing, developing, and maintaining projects. Below are my skill sets.</p>
+<p align="center">I am a passionate software developer with experience in building AI-powered applications, web development, and WordPress solutions. Skilled in React, PHP, Node.js, and AI-driven automation. Currently working at Brainstorm Force, where I develop [Gutenberg-based form builder solutions and AI-enhanced features](https://wordpress.org/plugins/sureforms/). I enjoy solving complex problems, optimizing user experiences, and working on innovative personal projects that are AI-driven like [Chrome extensions](https://chromewebstore.google.com/detail/use-chat-gpt-on-any-websi/obfekodipjodhijlofdpmalbihfaaimn) and other [SaaS](https://nofakemails.me), etc. Always eager to explore new technologies and build impactful digital solutions.</p>
 
 <p align= "center">
   <img src="https://img.shields.io/badge/HTML-DD4A24"/>

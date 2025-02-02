@@ -30,17 +30,6 @@
   </p>
 
   <div align="center">
-    <p>
-      <img style="margin-left:25%;" width="50%" align="center" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" alt="Avatar"/>
-    </p>
-  </div>
-
-  <div align="center">
-    <h2>🔗 Links</h2>
-    <a href="https://vanshk141999.github.io">
-      <img src="https://img.shields.io/badge/portfolio-4AACF3?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
-    </a>
-
   <h2>GitHub Stats</h2>
   <div align="center">
     <img height="180em" src="https://github-readme-stats-git-master-vanshs-projects.vercel.app/api?username=vanshk141999&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide=stars" alt="GitHub Stats"/>

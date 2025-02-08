@@ -9,9 +9,8 @@
     I am a passionate software developer with experience in building AI-powered applications, web development, and WordPress solutions. 
     Skilled in React, PHP, Node.js, and AI-driven automation. Currently working at Brainstorm Force, where I develop 
     <a href="https://wordpress.org/plugins/sureforms/">Gutenberg-based form builder solutions and AI-enhanced features</a>. 
-    I enjoy solving complex problems, optimizing user experiences, and working on innovative personal projects that are AI-driven like 
-    <a href="https://chromewebstore.google.com/detail/use-chat-gpt-on-any-websi/obfekodipjodhijlofdpmalbihfaaimn">Chrome extensions</a> 
-    and other <a href="https://nofakemails.me">SaaS</a>. Always eager to explore new technologies and build impactful digital solutions.
+    I enjoy solving complex problems, optimizing user experiences, and working on innovative personal projects that are <a href="https://nofakemails.me">Full-Stack SaaS</a> and AI-driven like 
+    <a href="https://chromewebstore.google.com/detail/use-chat-gpt-on-any-websi/obfekodipjodhijlofdpmalbihfaaimn">Chrome extensions</a>. Always eager to explore new technologies and build impactful digital solutions.
   </p>
 
   <p align="center">

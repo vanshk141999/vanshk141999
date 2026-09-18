@@ -39,14 +39,4 @@
   <img height="180em" src="https://github-readme-stats-git-master-vanshs-projects.vercel.app/api?username=vanshk141999&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide=stars" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-git-master-vanshs-projects.vercel.app/api/top-langs/?username=vanshk141999&layout=compact&langs_count=6" alt="Top Languages"/>
 
-  <h2>🔗 Connect with me</h2>
-  <a href="https://www.vanshkapoor.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vansh-kapoor-vk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kvansh297@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
+ </div>
